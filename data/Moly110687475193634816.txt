@@ -1,0 +1,2 @@
+Moly 110687475193634816
+var info = [ "test class please ignore", "level", "name", "race", "weapon", "armor", "artifact"]

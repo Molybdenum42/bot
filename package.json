@@ -1,0 +1,11 @@
+{
+  "name": "gummibear",
+  "version": "1.0.0",
+  "description": "My own Discord bot",
+  "main": "bot.js",
+  "author": "Moly",
+  "dependencies": {
+    "git": "^0.1.5",
+    "winston": "^2.4.0"
+  }
+}
