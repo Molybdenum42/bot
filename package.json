@@ -5,6 +5,7 @@
   "main": "bot.js",
   "author": "Moly",
   "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
     "git": "^0.1.5",
     "winston": "^2.4.0"
   }
